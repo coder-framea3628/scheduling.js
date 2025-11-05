@@ -367,6 +367,8 @@ p {
 .hotel-card {
   background: var(--input-bg);
   border-radius: 16px;
+  max-width: 380px;
+  margin: 0 auto;
   overflow: hidden;
   box-shadow: 0 4px 16px rgba(0,0,0,0.08);
   display: flex;
@@ -384,7 +386,7 @@ p {
   position: relative;
 }
 .hotel-img {
-  width: 60%;
+  width: 100%;
   height: 180px;
   object-fit: cover;
   loading: lazy;
