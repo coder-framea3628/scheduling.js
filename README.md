@@ -1,4 +1,13 @@
-Aviso Legal e Direitos Proprietários / Legal Notice and Proprietary Rights
+<p align="center">
+  <img src="https://framerusercontent.com/images/YtvEkPzPRM03tNGvgD0oC4z8sQ.png?width=1526&height=762" 
+       alt="Frame Tecnologia LTDA - Aviso Legal" 
+       width="820" 
+       style="max-width: 100%; height: auto; border-radius: 8px;">
+</p>
+
+<br>
+
+# Aviso Legal e Direitos Proprietários / Legal Notice and Proprietary Rights
 
 Português (Brasil)
 
