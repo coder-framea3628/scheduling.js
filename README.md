@@ -2,7 +2,7 @@
   <img src="https://framerusercontent.com/images/YtvEkPzPRM03tNGvgD0oC4z8sQ.png?width=1526&height=762" 
        alt="Frame Tecnologia LTDA - Aviso Legal" 
        width="820" 
-       style="max-width: 100%; height: auto; border-radius: 8px;">
+       style="max-width: 100%; height: auto; border-radius: 16px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);">
 </p>
 
 <br>
